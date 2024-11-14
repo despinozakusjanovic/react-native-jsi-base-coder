@@ -89,7 +89,7 @@ android {
   compileSdkVersion getExtOrIntegerDefault('compileSdkVersion')
   buildToolsVersion getExtOrDefault('buildToolsVersion')
   ndkVersion getExtOrDefault('ndkVersion')
-
+  namespace 'com.reactnativejsibasecoder'
   defaultConfig {
     minSdkVersion 21
     targetSdkVersion getExtOrIntegerDefault('targetSdkVersion')
