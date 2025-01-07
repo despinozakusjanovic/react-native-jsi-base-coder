@@ -34,7 +34,7 @@ buildscript {
   }
 
   dependencies {
-    classpath 'com.android.tools.build:gradle:7.2.0'  // Actualización a una versión más reciente
+    classpath 'com.android.tools.build:gradle:8.1.1' 
     classpath 'de.undercouch:gradle-download-task:4.1.2'
   }
 }
